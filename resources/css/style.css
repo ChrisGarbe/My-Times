@@ -116,7 +116,7 @@ header nav {
 }
 
 .lead-story .image-content {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png");
+  background-image: url("resources/images/main story.png");
   width: 630px;
   margin-top: 0;
   text-align: left;
@@ -128,11 +128,11 @@ header nav {
 }
 
 .fallpic.image-content {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png");
+  background-image: url("resources/images/fall.png");
 }
 
 .camera.image-content {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png");
+  background-image: url("resources/images/camera.png");
 }
 
 /* Second News Column */
@@ -142,7 +142,7 @@ header nav {
 }
 
 .cat.image-content {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-1.png");
+  background-image: url("resources/images/cat.png");
 }
 
 /* Thrid News Column */
