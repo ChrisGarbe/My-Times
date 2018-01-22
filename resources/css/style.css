@@ -116,7 +116,7 @@ header nav {
 }
 
 .lead-story .image-content {
-  background-image: url("resources/images/main story.png");
+  background-image: url("../images/main story.png");
   width: 630px;
   margin-top: 0;
   text-align: left;
@@ -128,11 +128,11 @@ header nav {
 }
 
 .fallpic.image-content {
-  background-image: url("resources/images/fall.png");
+  background-image: url("../images/fall.png");
 }
 
 .camera.image-content {
-  background-image: url("resources/images/camera.png");
+  background-image: url("../images/camera.png");
 }
 
 /* Second News Column */
@@ -142,7 +142,7 @@ header nav {
 }
 
 .cat.image-content {
-  background-image: url("resources/images/cat.png");
+  background-image: url("../images/cat.png");
 }
 
 /* Thrid News Column */
